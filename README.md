@@ -15,7 +15,7 @@ Olá! Sou **Renan Alves de Medeiros**, cursante de Análise e Desenvolvimento de
   <summary>2020/1</summary>
   
   
-  ## iPet App
+  ## iPet App <a href="https://github.com/medrenan/ipet-app"><img src="resources/github-logo.png" width="25px" height="25px"></img><a>
   
   ### Parceiro Acadêmico
   FATEC - Prof. Jessen Vidal, proposto pelo professor Jean Carlos Lourenço Costa da disciplina Programação em Microinformática
