@@ -53,7 +53,7 @@ Olá! Sou **Renan Alves de Medeiros**, cursante de Análise e Desenvolvimento de
   
   #### Contribuições Pessoais
   
-  Fui responável pelo desenvolvimento backend da aplicação. Sendo neste semestre meu primeiro contato com programação web e com diversos dos recursos utilizados, como a linguagem Javascript e o React Native, tive de aprender o uso eficiente das ferramentas da aplicação durante o próprio desenvolvimento.
+  Fui responsável pelo desenvolvimento backend da aplicação. Sendo neste semestre meu primeiro contato com programação web e com diversos dos recursos utilizados, como a linguagem Javascript e o React Native, tive de aprender o uso eficiente das ferramentas da aplicação durante o próprio desenvolvimento.
   
   Como desenvolvedor back-end, construí a lógica e os serviços da aplicação com o uso das tecnologias citadas, pesquisando nas documentações e em tutoriais os diferentes tipos de implementações e os usos mais adequados ao projeto de forma com que o problema apresentado fosse resolvido de forma eficiente. Desenvolvi os serviços que se comunicam com a tela do aplicativo, com persistência, leitura, escrita e remoção de dados no banco de dados da aplicação utilizando uma arquitetura de model, view e controller.
   
