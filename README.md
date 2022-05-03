@@ -128,7 +128,7 @@ Olá! Sou **Renan Alves de Medeiros**, cursante de Análise e Desenvolvimento de
   
   #### Soft Skills
   
-  - **Comunicação**: uma habilidade que está em constante desenvolvimento, e não foi diferente nesta etapa, onde foi necessário apresentar o projeto para o cliente e professores avaliadores. Além de ser necessário para manter um esquema organizacional eficiente, ativo e funcional entre os integrantes da equipe. 
+  - **Comunicação**: uma habilidade que está em constante desenvolvimento, e não foi diferente nesta etapa onde foi necessário apresentar o projeto para o cliente e professores avaliadores. Além de ser necessário para manter um esquema organizacional eficiente, ativo e funcional entre os integrantes da equipe. 
   - **Controle de Tempo**: por ser o primeiro projeto em parceria com um cliente real, uma empresa parceira da universidade, com prazos mais curtos para um desenvolvimento mais complexo e com mais requisitos, o controle do tempo foi necessário para cumprir com as entregas nos prazos determinados, buscando otimizar a eficiência.
 </details>
 <details>
