@@ -1,7 +1,7 @@
 <body>
   <div align="center">
     <h1>Renan Alves de Medeiros</h1>
-    <kbd><img src="https://avatars.githubusercontent.com/u/64873343?v=4" width="200px" height="200px"/></kbd>
+    <kbd><img src="https://media-exp1.licdn.com/dms/image/C4D03AQEHms0ZjEXQVw/profile-displayphoto-shrink_800_800/0/1651844532134?e=1668643200&v=beta&t=DPutedGLfAfLZEpM24ImV-eE1pClU5NLLv2jL08kwgE" width="200px" height="200px"/></kbd>
     <p><a href="https://www.linkedin.com/in/medrenan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
   </div>
 </body>
