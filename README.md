@@ -1,7 +1,7 @@
 <body>
   <div align="center">
     <h1>Renan Alves de Medeiros</h1>
-    <kbd><img src="https://media-exp1.licdn.com/dms/image/C4D03AQEHms0ZjEXQVw/profile-displayphoto-shrink_800_800/0/1651844532134?e=1668643200&v=beta&t=DPutedGLfAfLZEpM24ImV-eE1pClU5NLLv2jL08kwgE" width="200px" height="200px"/></kbd>
+    <kbd><img src="https://media.licdn.com/dms/image/C4D03AQEHms0ZjEXQVw/profile-displayphoto-shrink_800_800/0/1651844532134?e=1692230400&v=beta&t=JHWV7k8hwES7sfLKAe20vTd7ZRRu8aeNg55iUcasRps" width="200px" height="200px"/></kbd>
     <p><a href="https://www.linkedin.com/in/medrenan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
   </div>
 </body>
@@ -10,11 +10,11 @@
 
 Olá! Sou **Renan Alves de Medeiros**, cursante de Análise e Desenvolvimento de Sistemas pela FATEC - Prof. Jessen Vidal. Durante o processo da graduação já participei de uma iniciação científica no Instituto Nacional de Pesquisas Espaciais, agora atuo como estagiário em desenvolvimento de software na Touch Health. Ao decorrer dos semestres participei das APIs - projetos realizados pela faculdade em parceria com empresas que buscam uma solução de um problema real, aplicando os conhecimentos desenvolvidos na universidade.
 
-## Meus projetos
+## Meus projetosassets/github-mark-white.png
 <details>
   <summary>2020/1</summary>
   
-  ### iPet App <a href="https://github.com/medrenan/ipet-app"><img src="resources/github-logo-light.png" width="25px" height="25px"></img><a>
+  ### iPet App <a href="https://github.com/medrenan/ipet-app"><img src="assets/github-mark-white.png" width="25px" height="25px"></img><a>
   
   ### Parceiro Acadêmico
   FATEC - Prof. Jessen Vidal, proposto pelo professor Jean Carlos Lourenço Costa da disciplina Programação em Microinformática
@@ -73,10 +73,11 @@ Olá! Sou **Renan Alves de Medeiros**, cursante de Análise e Desenvolvimento de
   - **Resolução de problemas**: durante qualquer processo de desenvolvimento é natural que exista conflitos e problemas internos ou externos, sejam eles técnicos ou de gestão, por isso é necessários buscar formas eficientes de resolve-los. Foi fundamental durante o processo inteiro de desenvolvimento do API.
   - **Ensino/Treinamento**: como foi citado no ponto de *Comunicação*, a equipe possuia diferentes níveis de conhecimentos técnicos, por isso, o ensino e o treinamento foi vital no desenvolvimento do projeto. Como houve facilidade da minha parte no entendimento das tecnologias, que aprendi praticando e com o auxílio de outros membros da equipe, pude repassar o conhecimento adquirido treinando outros membros da equipe e auxiliando em dúvidas.
 </details>
+
 <details>
   <summary>2020/2</summary>
   
-  ### eJourney <a href="https://github.com/medrenan/PI_2020.2"><img src="resources/github-logo-light.png" width="25px" height="25px"></img><a>
+  ### eJourney <a href="https://github.com/medrenan/PI_2020.2"><img src="assets/github-mark-white.png" width="25px" height="25px"></img><a>
   
   ### Parceiro Acadêmico
   IACIT Soluções Tecnológicas
@@ -131,10 +132,11 @@ Olá! Sou **Renan Alves de Medeiros**, cursante de Análise e Desenvolvimento de
   - **Comunicação**: uma habilidade que está em constante desenvolvimento, e não foi diferente nesta etapa onde foi necessário apresentar o projeto para o cliente e professores avaliadores. Além de ser necessário para manter um esquema organizacional eficiente, ativo e funcional entre os integrantes da equipe. 
   - **Controle de Tempo**: por ser o primeiro projeto em parceria com um cliente real, uma empresa parceira da universidade, com prazos mais curtos para um desenvolvimento mais complexo e com mais requisitos, o controle do tempo foi necessário para cumprir com as entregas nos prazos determinados, buscando otimizar a eficiência.
 </details>
+
 <details>
   <summary>2021/1</summary>
   
-  ### nEDUC <a href="https://github.com/DevSlim001/API_NEDUC"><img src="resources/github-logo-light.png" width="25px" height="25px"></img><a>
+  ### nEDUC <a href="https://github.com/DevSlim001/API_NEDUC"><img src="assets/github-mark-white.png" width="25px" height="25px"></img><a>
   
   ### Parceiro Acadêmico
   NESS Health
@@ -166,11 +168,17 @@ Olá! Sou **Renan Alves de Medeiros**, cursante de Análise e Desenvolvimento de
   Com o uso de HTML também foi possível fazer a conexão com o controlador do sistema, a fim de direcionar botões e atalhos presentes nas telas para serviços construídos no backend da aplicação e apresentar os dados encontrados dinamicamente.
   
   #### Contribuições Pessoais
+  <details>
+    <summary>Product Owner</summary>
   Neste projeto pude ser o Product Owner da equipe, portanto além das responsabilidades de desenvolvedor, também fiquei responsável pelo contato direto com o cliente, apresentando o que foi construído durante a sprint e num processo contínuo de validação e negociação de prazos e requisitos. Também tive o encargo de sanar as dúvidas da equipe durante o projeto, sempre comunicando a melhor forma de seguir com o projeto de acordo com as demandas do cliente.
-  
+
   Como Product Owner, construí efetivamente os recursos da metodologia Scrum para a posição, definindo o Product Backlog, gerando os gráficos de burndown e parametrizando a equipe em relação do estado de desenvolvimento para com os requisitos necessários e funcionalidades a serem entregues que foram previamente negociadas.
+  </details>
+  <details>
+    <summary>Desnovlvedor Back-End</summary>
   
-  Além disso, atuei como desenvolvedor, principalmente no back-end da aplicação. Criando rotas de integração de serviços de processamento dos dados fornecidos pela tela. Neste projeto, principalmente, compreendi melhor aspectos importantes para um desenvolvedor web, tanto pelo contato com o produto quanto com as tecnologias empregadas e seus usos, como a construção das rotas e a definição de um banco de dados relacional funcional.
+  Também atuei como desenvolvedor, principalmente no back-end da aplicação. Criando rotas de integração de serviços de processamento dos dados fornecidos pela tela. Neste projeto, principalmente, compreendi melhor aspectos importantes para um desenvolvedor web, tanto pelo contato com o produto quanto com as tecnologias empregadas e seus usos, como a construção das rotas e a definição de um banco de dados relacional funcional.
+  </details>
   
 <div align="center">
   
@@ -194,12 +202,183 @@ Olá! Sou **Renan Alves de Medeiros**, cursante de Análise e Desenvolvimento de
   - **Habilidades Técnicas**: o estudo de novas tecnologias foi fundamental para compreender a complexidade do projeto e os requerimentos do cliente, que possuía um alto nível técnico.
 </details>
 
+<details>
+  <summary>2021/2</summary>
+
+  ### ShipsDocument <a href="https://github.com/developersapi/Sistema-Web-com-Regra-de-Negocio/tree/sprint04"><img src="assets/github-mark-white.png" width="25px" height="25px"></img><a>
+
+  ### Parceiro Acadêmico
+  Embraer
+  
+  ### Visão do Projeto
+  O desafio do projeto foi com base em um problema real enfrentado na Embraer; na empresa toda a aeronave produzida conta com um manual operacional que demonstra o funcionamento de suas peças. No entanto, o manual é criado e mantido de forma manual, utilizando planilhas para fazer o controle do lançamento de manuais atualizados. Além desta prática necessitar de bastante tempo devido a complexidade, implica no surgimento de erros nos manuais.
+
+  A solução foi elaborar uma aplicação desktop que, comunicando com um servidor interno da empresa, seja capaz de criar, manipular e dispor os manuais para os clientes de fomra facilitada.
+
+  Os manuais dispõem de um padrão específico adotado na empresa, chamado de Codelist: por este padrão, é realizado todo o tratamento dos repositórios de manuais para cada aeronave. Visto que uma sessão do documento de determinada operação pode precisar ser disponibilizada em outras aeronaves que utilizam a mesma peça e funcionalidade, o sistema é responsabilizado por tratar automaticamente, a partir do valor da codelist cadastrada, a geração do manual para cada aeronave.
+  
+  ### Tecnologias Utilizadas
+  
+  #### Spring Framework
+  Spring é um framework Java amplamente utilizado pela comunidade que otimiza o processo de desenvolvimento web em Java, possibilitando um maior domínio do projeto que está sendo desenvolvido com um suporte à infraestrutura direto na aplicação, permitindo que os desenvolvedores possam se concentrar na parte lógica da aplicação, sem se preocupar com configurações de ambiente.
+  
+  A ferramente possui uma plenitude de funcionalidades, se destacando entre elas o Spring Data, módulo responsável pela conexão da aplicação com um banco de dados que possibilita trabalhar com mais facilidade por fazer essa integração de forma mais direta.
+  
+  Também é notável o Spring MVC, tecnologia que facilita o desenvolvimento Web em Java permitindo construir uma aplicação web ou API Rest de forma simples e intuitiva, gerando aplicações robustas e flexíveis.
+  
+  O Spring foi a tecnologia chave do projeto, utilizada para construir as rotas de integração com banco de dados, adotando a lógica necessária para o tratamento dos manuais, e a comunicação com a interface gráfica do usuário.
+  
+  #### PostgreSQL
+  O banco de dados do sistema proposto foi construido com o PostgreSQL, um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface para adicionar, acessar e processar os dados de uma aplicação. Foi utilizado para fazer a persistência dos dados.
+  
+  #### AngularJS
+  A interface do usuário foi construída utilizando AngularJS, um framework front-end javascript que oferece um padrão de comopnentização de elementos HTML, facilitando o trabalho do desenvolvimento e integração das telas.
+
+  #### Contribuições Pessoais
+  
+  Atuei como desenvolvedor back-end da aplicação, sendo responsável pela construção da lógica de tratamento dos dados recebidos da tela, aplicando as regras de negócio do cliente para a construção, gerencimanto e publicação dos manuais das aeronaves. Incluindo também a modelagem do banco de dados, mapeamento das entidades ORM e criação das rotas da API de controle dos manuais.
+  
+  #### Hard Skills
+  
+  - **Java Spring | Construção das entidades, serviços e controles**: sei fazer com autonomia
+  - **Padrão de desing de projeto**: sei fazer com autonomia
+  
+  #### Soft Skills
+  
+  - **Levantamento de requisitos**: além do desenvolvimento, contribuí com o levantamento de requisitos da aplicação, procurando compreender a visão do cliente sobre o projeto para implementar uma solução que o atenda.
+  - **Comunicação**: por ter se tratado de um projeto com um desenvolvimento conturbado, a comunicação efetiva foi chave para o trabalho da equipe.
+</details>
+
+<details>
+  <summary>2022/1</summary>
+
+  ### eFOL <a href="https://github.com/medrenan/eFol-app"><img src="assets/github-mark-white.png" width="25px" height="25px"></img><a>
+
+  ### Parceiro Acadêmico
+  Embraer
+  
+  ### Visão do Projeto
+  O desafio do projeto foi com base em um problema real enfrentado na Embraer; mesmo após a venda de uma aeronve é necessário um controle de qualidade continuo por se tratar de um veículo onde a segurança é um ponto crítico. Com isso, certas aeronaves podem necessitar de um _recall_ ou uma alteração no funcionamento de algumas de suas ferramentas ou componentes.
+
+  Visando uma solução para estre problema, a empresa adota a prática de emitir FOLs (Flight Operation List) para aeronaves que necessitem de manutenção devido a o mau funcionamento de algum de seus componentes. No entanto, para que o cliente acesse estes registros é necessário um extenso processo de consulta num sistema interno da empresa.
+
+  Pensando nisso, o desafio foi criar um aplicativo que notifique cada cliente a situação atual das aeronaves que possui e permita a consulta faciltiada dos registros criados para sua aeronave.
+
+  Foi necessário implementar:
+  - Acesso aos clientes já cadastrados em uma base de dados da empresa;
+  - Visualização de seus equipamentos;
+  - Visualizacão das FOLs
+  - Notificação de atualizações de FOLs
+
+  Aos administradores do sistema é disponibilizado um sistema web para gerenciamento das FOLs lançadas.
+
+  |![image]("assets/efol.gif)| 
+  |:--:| 
+  | *Gif demonstrando o funcionamento da aplicação* |
+  
+  ### Tecnologias Utilizadas
+  
+  #### Spring Framework
+  Spring é um framework Java amplamente utilizado pela comunidade que otimiza o processo de desenvolvimento web em Java, possibilitando um maior domínio do projeto que está sendo desenvolvido com um suporte à infraestrutura direto na aplicação, permitindo que os desenvolvedores possam se concentrar na parte lógica da aplicação, sem se preocupar com configurações de ambiente.
+  
+  A ferramente possui uma plenitude de funcionalidades, se destacando entre elas o Spring Data, módulo responsável pela conexão da aplicação com um banco de dados que possibilita trabalhar com mais facilidade por fazer essa integração de forma mais direta.
+  
+  Também é notável o Spring MVC, tecnologia que facilita o desenvolvimento Web em Java permitindo construir uma aplicação web ou API Rest de forma simples e intuitiva, gerando aplicações robustas e flexíveis.
+  
+  O Spring foi a tecnologia chave do projeto, utilizada para construir as rotas de integração com banco de dados, adotando a lógica necessária para o tratamento dos manuais, e a comunicação com a interface gráfica do usuário.
+  
+  #### PostgreSQL
+  O banco de dados do sistema proposto foi construido com o PostgreSQL, um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface para adicionar, acessar e processar os dados de uma aplicação. Foi utilizado para fazer a persistência dos dados.
+  
+  #### React Native
+  A interface do usuário foi construída utilizando React Native, um framework front-end javascript para desenvolvimento mobile que oferece um padrão de comopnentização de elementos HTML, facilitando o trabalho do desenvolvimento e integração das telas além de contar com funcionalidades específicas disponíveis em um aparelho celular.
+
+  #### Contribuições Pessoais
+  
+  Atuei como desenvolvedor back-end da aplicação, sendo responsável pela construção da lógica de tratamento dos dados recebidos da tela, aplicando as regras de negócio do cliente no serviço do aplicativo para: o cadastro e login dos clientes na plataforma, visualização das FOLs aplicando filtros na busca.
+
+  No serviço do admnistrador, criei toda a lógica de cadastro e atualizações de FOLs no sistema.
+  
+  #### Hard Skills
+  
+  - **Java Spring | Construção das entidades, serviços e controles**: sei fazer com autonomia
+  - **Padrão de desing de projeto**: sei fazer com autonomia
+  - **React | Construção das telas do sistema de administração**:  sei fazer com autonomia
+  - **React Native**: sei fazer com ajuda
+  
+  #### Soft Skills
+  
+  - **Liderança**: durante o desenvolvimento do projeto, estive liderando o time de desenvolvimento back-end que atuou para construir os serviços da aplicação
+  - **Gerenciamento de Equipe**: como adotamos tecnologias novas durante este projeto, a equipe teve dificuldade em trabalhar no desenvolvimento das telas do aplicativo. Defini tarefas e prestei suporte as equipes buscando entender como funciona as ferramentas e repassar para a equipe facilitando o desenvolvimento.
+</details>
+
+<details>
+<summary>2022/2</summary>
+  
+### SoyIA <a href="https://github.com/medrenan/SoyIA"><img src="assets/github-mark-white.png" width="25px" height="25px"></img><a>
+
+### Parceiro Acadêmico
+  VISIONA
+  
+### Visão do Projeto
+
+O desafio proposto foi o de dar continuidade a um projeto desenvolvido por outra turma para a Visiona, o eSoja: um aplicativo mobile que oferece funcionalidades para donos de talhões de soja para realizar o controle de suas plantações, registrar estágios das plantações e calcular estimativas de produção. Através do aplicativo o agricultor realiza o registro da amostra das plantações para que o aplicativo estime a produção da plantação, informando manualmente a quantidade de sementes de soja de cada registro.
+
+Visto que o processo de contagem dos grãos de soja consome muito tempo do agricultor, o desafio foi implementar uma nova funcionalidade ao projeto: a contagem automática de grãos de soja através do uso de inteligência artificial de reconhecimento de imagem.
+
+Com isso, é necessário que o usuário apenas fotografe a planta de soja e o sistema realiza a contagem dos grãos automaticamente, de forma precisa.
+
+|![image]("assets/SoyIA.gif)| 
+  |:--:| 
+  | *Gif demonstrando o funcionamento da aplicação* |
+
+### Tecnologias Utilizadas
+
+#### Tensorflow
+
+TensorFlow é uma biblioteca de código aberto para aprendizado de máquina e desenvolvimento de redes neurais. Ela é projetada para suportar a construção e treinamento de modelos de aprendizado profundo, utilizando uma estrutura flexível baseada em grafos computacionais. O TensorFlow oferece alto desempenho e escalabilidade, permitindo o treinamento distribuído de modelos em ambientes de computação paralela, sendo uma ferramenta amplamente utilizado em projetos de inteligência artificial e pesquisa, abrangendo áreas como visão computacional, processamento de linguagem natural, reconhecimento de fala e muito mais.
+
+#### Keras
+
+Keras é uma biblioteca de aprendizado profundo em Python que fornece uma interface simples e eficiente para construir e treinar redes neurais. É conhecida por sua facilidade de uso e integração com outras bibliotecas, como TensorFlow, permitindo a implementação rápida de modelos complexos de aprendizado profundo.
+
+#### Python
+
+Python é uma linguagem de programação de alto nível e interpretada, amplamente utilizada em inteligência artificial. Sua sintaxe clara e bibliotecas como TensorFlow e scikit-learn facilitam o desenvolvimento de algoritmos de aprendizado de máquina, processamento de linguagem natural e visão computacional.
+
+#### PostgreSQL
+
+O banco de dados do sistema proposto foi construido com o PostgreSQL, um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface para adicionar, acessar e processar os dados de uma aplicação. Foi utilizado para fazer a persistência dos dados.
+
+#### Flask
+  
+Flask é uma biblioteca em Python para desenvolvimento de aplicações web. Ela é leve e fácil de usar, permitindo a criação rápida de aplicativos web simples e escaláveis. Flask fornece um conjunto de ferramentas e recursos para o roteamento de URLs, manipulação de solicitações e respostas, além de suporte a templates para renderização de páginas.
+  
+### Contribuições Pessoais
+
+Neste projeto fui o Master, sendo responsável pelo gerenciamento completo da equipe, criando as tarefas e organizando os processos de desenvolvimento para realizar as entregas. No gerenciamento da equipe está incluso o controle de horas, a divisão de tarefas e responsabilidades, a facilitação da comunicação das partes do projeto e o levantamento de requisitos junto com o Product Owner.
+
+Utilizando métodos consolidados de metodoligas ágeis como Scrum e Kanban, o processo de desenvolvimento foi controlado de forma eficiente.
+
+Também contribuí no desenvolvimento da aplicação, auxiliando a equipe de desenvolvimento quando necessário.
+
+### Hard Skills
+- **Metodologias Ágeis | Scrum, Kanban**: sei fazer com autonomia
+- **ClickUp | Ferramenta para gestão de projetos**: sei fazer com autonomia
+
+### Soft Skills
+- **Liderança**: liderando a equipe tivemos sprints eficientes com poucas dificuldades nas entregas e no processo de desenvolvimento.
+- **Harmonia**: através também da liderança, auxiliei toda a equipe a trabalhar de forma harmoniosa para que não houvesse conflitos ou impedimentos durante o processo de desenvolvimento.
+  
+</details>
+
 ## Principais Conhecimentos
-  ### Java
-  
-  ### Spring
-  
-  ### Bancos de Dados Relacionais
+### Java
+### Spring
+### React
+### TypeScript
+### Bancos de Dados Relacionais
+
 ## Contato
   - [**Linkedin**](https://www.linkedin.com/in/medrenan/)
   - [**GitHub**](https://github.com/medrenan)
