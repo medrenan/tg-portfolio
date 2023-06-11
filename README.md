@@ -8,9 +8,9 @@
   
 ## Introdução
 
-Olá! Sou **Renan Alves de Medeiros**, cursante de Análise e Desenvolvimento de Sistemas pela FATEC - Prof. Jessen Vidal. Durante o processo da graduação já participei de uma iniciação científica no Instituto Nacional de Pesquisas Espaciais, agora atuo como estagiário em desenvolvimento de software na Touch Health. Ao decorrer dos semestres participei das APIs - projetos realizados pela faculdade em parceria com empresas que buscam uma solução de um problema real, aplicando os conhecimentos desenvolvidos na universidade.
+Olá! Sou **Renan Alves de Medeiros**, cursante de Análise e Desenvolvimento de Sistemas pela FATEC - Prof. Jessen Vidal. Durante o processo da graduação já participei de uma iniciação científica no Instituto Nacional de Pesquisas Espaciais, agora atuo como desenvolvedor de software na Touch Health. Ao decorrer dos semestres participei das APIs - projetos realizados pela faculdade em parceria com empresas que buscam uma solução de um problema real, aplicando os conhecimentos desenvolvidos na universidade.
 
-## Meus projetosassets/github-mark-white.png
+## Meus projetos
 <details>
   <summary>2020/1</summary>
   
@@ -182,7 +182,7 @@ Olá! Sou **Renan Alves de Medeiros**, cursante de Análise e Desenvolvimento de
   
 <div align="center">
   
-  |![image](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/cursosview.gif)| 
+  |<img src="https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/cursosview.gif" />| 
   |:--:| 
   | *Gif demonstrando o funcionamento da tela de Cursos da aplicação* |
 
@@ -272,7 +272,7 @@ Olá! Sou **Renan Alves de Medeiros**, cursante de Análise e Desenvolvimento de
 
   Aos administradores do sistema é disponibilizado um sistema web para gerenciamento das FOLs lançadas.
 
-  |![image]("assets/efol.gif)| 
+  |<img src="assets/efol.gif" />| 
   |:--:| 
   | *Gif demonstrando o funcionamento da aplicação* |
   
@@ -328,7 +328,7 @@ Visto que o processo de contagem dos grãos de soja consome muito tempo do agric
 
 Com isso, é necessário que o usuário apenas fotografe a planta de soja e o sistema realiza a contagem dos grãos automaticamente, de forma precisa.
 
-|![image]("assets/SoyIA.gif)| 
+  |<img src="assets/SoyIA.gif" />| 
   |:--:| 
   | *Gif demonstrando o funcionamento da aplicação* |
 
