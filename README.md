@@ -213,7 +213,7 @@ Olá! Sou **Renan Alves de Medeiros**, cursante de Análise e Desenvolvimento de
   ### Visão do Projeto
   O desafio do projeto foi com base em um problema real enfrentado na Embraer; na empresa toda a aeronave produzida conta com um manual operacional que demonstra o funcionamento de suas peças. No entanto, o manual é criado e mantido de forma manual, utilizando planilhas para fazer o controle do lançamento de manuais atualizados. Além desta prática necessitar de bastante tempo devido a complexidade, implica no surgimento de erros nos manuais.
 
-  A solução foi elaborar uma aplicação desktop que, comunicando com um servidor interno da empresa, seja capaz de criar, manipular e dispor os manuais para os clientes de fomra facilitada.
+  A solução foi elaborar uma aplicação desktop que, comunicando com um servidor interno da empresa, seja capaz de criar, manipular e dispor os manuais para os clientes de forma facilitada.
 
   Os manuais dispõem de um padrão específico adotado na empresa, chamado de Codelist: por este padrão, é realizado todo o tratamento dos repositórios de manuais para cada aeronave. Visto que uma sessão do documento de determinada operação pode precisar ser disponibilizada em outras aeronaves que utilizam a mesma peça e funcionalidade, o sistema é responsabilizado por tratar automaticamente, a partir do valor da codelist cadastrada, a geração do manual para cada aeronave.
   
